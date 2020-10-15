@@ -41,7 +41,7 @@ sysbench=# select name, setting from pg_settings;
  authentication_timeout                 | 60
  autovacuum                             | on
 ...
-  wal_sender_timeout                     | 60000
+ wal_sender_timeout                     | 60000
  wal_sync_method                        | fdatasync
  wal_writer_delay                       | 200
  wal_writer_flush_after                 | 128
